@@ -18,3 +18,12 @@ torchvision 0.2.1
 
 ![image](https://github.com/kakarotcq/Gan/blob/master/Wgan-GP/samples_99999.jpg)
 
+## Network visualization
+### layer-1
+![image](https://github.com/kakarotcq/Gan/blob/master/Gnet_visualization/layer-1.jpg)
+
+### layer-2
+![image](https://github.com/kakarotcq/Gan/blob/master/Gnet_visualization/layer-2.jpg)
+
+### layer-3
+![image](https://github.com/kakarotcq/Gan/blob/master/Gnet_visualization/layer-3.jpg)
